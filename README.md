@@ -1,3 +1,5 @@
+Any Support Or Want Version ESX OR QBCORE CAN JOIN MY DISCORD : https://discord.gg/YgVZWnqQRV
+
 SCOREBOARD [QBOX] is a modern, lightweight, and fully customizable server status scoreboard designed for FiveM roleplay servers using Qbox frameworks.
 
 This resource provides players with a clean and immersive UI to quickly check server information without breaking roleplay immersion.
@@ -38,3 +40,4 @@ Compatible with most roleplay servers
 No encryption or obfuscation
 
 Thank You To jasoncsdev For The Original Idea
+
