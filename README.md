@@ -36,3 +36,5 @@ Restart your server
 No additional dependencies required beyond your framework
 Compatible with most roleplay servers
 No encryption or obfuscation
+
+Thank You To jasoncsdev For The Original Idea
